@@ -41,6 +41,14 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+
+h1:hover{
+  text-shadow: 3px 3px 8px red;
+  transition:0.8s;
+  font-size: 130%;
+
+}
+
 *,
 *::before,
 *::after {
